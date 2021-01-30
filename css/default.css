@@ -1,1 +1,15 @@
+html, body, header, section, mark, h1, h2, h3, h4, h5, p, nav, a, footer, figure, img, ul, li {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration: none;
+    font-weight: normal;
+}
 
+body{
+    line-height: 1;
+}
